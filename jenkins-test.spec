@@ -12,7 +12,7 @@ BuildArch: noarch
 Requires: python >= 2.7.0
 
 #%define SRC_DIR /home/jenkins-test
-%define SRC_DIR /var/lib/jenkins/workspace/jenkins-test
+%define SRC_DIR /home/jenkins/workspace/jenkins-test
 
 %description
 This is a test.
